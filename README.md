@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber-security
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me ...
+- 📫 How to reach me yell my name from your place
 
 <!---
 taeyang1995/taeyang1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
