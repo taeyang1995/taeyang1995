@@ -1,7 +1,7 @@
 print ("hi this is Taeyang")
 a=100
 b=300
-if(a>=b)or(b=a):
-print ("hi from alien")
+if(a<=b or b=a):
+ print ("hi from alien")
 else:
-print ("hi from asha")
+ print ("hi from asha")
